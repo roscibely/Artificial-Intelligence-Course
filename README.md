@@ -1,7 +1,7 @@
-# Huawei-HCIA
+# Artificial Intelligence (AI) Course
 
 
-This course matches the HCIA-AI V1.0 
+## This course matches the HCIA-AI V1.0 from Huawei (Huawei-HCIA)
 
    - You will systematically understand and grasp Python programming, essential mathematics knowledge in AI, basic programming methods using TensorFlow (a machine learning and Deep Learning platform framework), pre-knowledge and overview of Deep Learning.
    
